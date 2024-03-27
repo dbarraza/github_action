@@ -10,7 +10,7 @@ Application (client) ID: f030366b-8159-4af8-a634-dda6e9373ec1
 SecredId: 61462d4c-0d58-4043-99b6-b6bf43d240a5
 SecretValue: qo-8Q~FHzBIRz_Ue-6TztyejwQ8Hg.YLX3wVnbdS
 TenantId: 76c87c9d-bdc2-4f37-af73-579aa99fc5f6
-
+````
 {
   "clientId": "f030366b-8159-4af8-a634-dda6e9373ec1",
   "clientSecret": "euM8Q~Q-EJieaelwO2O727k1ciL1Y4JBptADkbCb",
@@ -23,5 +23,6 @@ TenantId: 76c87c9d-bdc2-4f37-af73-579aa99fc5f6
   "galleryEndpointUrl": "https://gallery.azure.com/",
   "managementEndpointUrl": "https://management.core.windows.net/"
 }
+````
 
 ### 2. Agregar el secreto en Github secret con el valor AZURE_CREDENTIALS
